@@ -69,7 +69,10 @@
       border: 1px dotted #eee;
       overflow: auto;
   }
-
+    #list{
+    list-style-type:circle;
+    text-align: left;
+    padding: 20px;}    
   
   footer {
       padding: 20px;
